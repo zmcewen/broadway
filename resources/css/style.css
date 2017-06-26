@@ -5,9 +5,7 @@ html {
 }
 .header {
   background-image: url("../images/theflatironbuilding.png");
-  width:auto;
-  height:auto;
-  margin:auto;
+  background-size: cover;
 }
 h1 {
   font-size: 70px;
