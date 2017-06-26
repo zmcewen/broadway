@@ -1,0 +1,74 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+
+}
+.header {
+  background-image: url("../images/theflatironbuilding.png");
+  width:auto;
+  height:auto;
+  margin:auto;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+}
+.list,a {
+  font-size:18px;
+  color: white;
+  text-decoration: underline;
+  list-style: none;
+  padding-left: 0;
+
+}
+.head {
+  list-style: none;
+  margin-top: 15px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.designed {
+  background-image: url("../images/theflatironbuilding.png");
+  width:auto;
+  height:auto;
+  margin:auto;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.footer {
+  background-color: dimgray;
+  color: white;
+}
+.copyright {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  display: inline;
+}
+.footerlist,a {
+  font-size:18px;
+  color: white;
+  text-decoration: underline;
+  list-style: none;
+  padding-left: 0;
+}
+.footerlist {
+  text-align: left;
+}
+.foot {
+  list-style: none;
+  margin-top: 15px;
+  text-align: left;
+  display: inline;
+}
